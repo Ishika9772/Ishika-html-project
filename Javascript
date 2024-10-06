@@ -1,0 +1,4 @@
+// JavaScript: Welcoming Our Students
+window.onload = function() {
+    alert("Welcome to my Personal Portfolio! Explore my work and feel free to reach out.");
+};
